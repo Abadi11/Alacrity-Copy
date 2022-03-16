@@ -38,8 +38,9 @@
   width: 2rem;
   margin: 1rem;
 }
-.analytics-container{
+.bar-container{
   display: flex;
   justify-content: center;
   cursor: pointer;
+  margin: 0.5rem 0;
 }
