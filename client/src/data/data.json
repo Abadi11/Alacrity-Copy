@@ -1,0 +1,46 @@
+[
+  {
+    "subject": "pay electresity bill",
+    "description": "Scottish Power",
+    "subtask": false,
+    "subtasks": [],
+    "reward": "",
+    "reference": "",
+    "time": "22:00",
+    "date": "19/04/2022"
+  },
+  {
+    "subject": "Renew Netflix sub",
+    "description": "Pay 20£",
+    "subtask": false,
+    "subtasks": [],
+    "reward": "",
+    "reference": "",
+    "time": "10:00",
+    "date": "01/02/2022"
+  },
+  {
+    "subject": "Finish CYF week 1 HW",
+    "description": "",
+    "subtask": true,
+    "subtasks": [
+      "Freecode camp JS course",
+      "Khan academy JS course",
+      "CYF JS course work"
+    ],
+    "reward": "",
+    "reference": "",
+    "time": "14:00",
+    "date": "01/03/2022"
+  },
+  {
+    "subject": "finish middle",
+    "description": "Scottish Power",
+    "subtask": true,
+    "subtasks": ["write name", "input field"],
+    "reward": "hang out",
+    "reference": "",
+    "time": "22:00",
+    "date": "20/04/2022"
+  }
+]
